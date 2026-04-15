@@ -19,6 +19,7 @@ This document explains how to integrate TikTok Login Kit API using OAuth 2.0 wit
 * User profile API
 * Video list API
 * Video analytics approach
+* API Documentation: https://developers.tiktok.com/doc/display-api-overview?enter_method=left_navigation
 
 ---
 
